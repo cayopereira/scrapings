@@ -1,1 +1,6 @@
 .venv/
+.idea/
+
+# arquivos de dados
+*.csv
+*.txt
